@@ -20,11 +20,11 @@ Follow these instructions to get the project up and running on your local machin
 
 1. Clone the repository:
 ```
-git clone https://github.com/Atomic-Joy/NextUp.git
+git clone https://github.com/Atomic-Joy/Quotily.git
 ```
 2. Navigate to the project directory:
 ```
-cd nextup-main
+cd quotily-main
 ```
 3. Install the dependencies:
 ```
